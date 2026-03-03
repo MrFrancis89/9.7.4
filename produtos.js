@@ -1,4 +1,4 @@
-// produtos.js
+// produtos.js — StockFlow Pro v9.7.4
 export const produtosPadrao = [
     "4 queijos|kg", "Açúcar|kg", "Alho frito|pct", "Azeitona|uni", "Bacon|kg", 
     "Banana|kg", "Batata palha|pct", "Caixa|uni", "Calabresa|kg", "Canela|pct", 
